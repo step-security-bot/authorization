@@ -27,7 +27,7 @@
 
     <groupId>jakarta.security.jacc</groupId>
     <artifactId>jakarta.security.jacc-api</artifactId>
-    <version>1.6.1</version>
+    <version>1.6.2-SNAPSHOT</version>
     
     <name>JACC API</name>
     <description>Eclipse Project for JACC</description>
