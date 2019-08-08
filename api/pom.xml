@@ -28,7 +28,7 @@
 
     <groupId>jakarta.security.jacc</groupId>
     <artifactId>jakarta.security.jacc-api</artifactId>
-    <version>1.6.2</version>
+    <version>1.6.3-SNAPSHOT</version>
     
     <name>Jakarta Authorization</name>
     <description>
